@@ -5,3 +5,18 @@ node_modules/
 dist/
 build/
 .env
+# Dependencies
+node_modules/
+
+# Build and cache
+.cache/
+dist/
+build/
+
+# Environment
+.env
+.env.local
+
+# OS / editor junk
+.DS_Store
+Thumbs.db

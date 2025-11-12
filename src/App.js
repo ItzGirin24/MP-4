@@ -7,7 +7,6 @@ import SurveyPage from './pages/SurveyPage';
 import AdminLoginPage from './pages/AdminLoginPage';
 import AdminDashboard from './pages/AdminDashboard';
 import { Toaster } from './components/ui/sonner';
-import './App.css';
 
 // Admin emails yang diizinkan
 const ADMIN_EMAILS = [
