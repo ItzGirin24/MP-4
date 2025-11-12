@@ -1,2 +1,7 @@
 echo "node_modules/" >> .gitignore
 echo ".cache/" >> .gitignore
+node_modules/
+.cache/
+dist/
+build/
+.env
