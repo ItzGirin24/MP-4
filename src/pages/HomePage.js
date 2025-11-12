@@ -121,7 +121,7 @@ const HomePage = ({ user }) => {
             di DI.Yogyakarta
           </h1>
           <p className={`text-lg sm:text-xl text-slate-600 mb-8 max-w-2xl mx-auto academic-body transition-all duration-700 delay-700 ${isVisible ? 'translate-y-0 opacity-100' : 'translate-y-4 opacity-0'}`}>
-            Kami mengundang Anda untuk berpartisipasi dalam penelitian akademis ini. Jawaban Anda akan sangat membantu kami memahami fenomena game online di kalangan remaja.
+            Kami mengundang Anda untuk berpartisipasi dalam penelitian kami. Jawaban Anda akan sangat membantu kami memahami fenomena game online di kalangan remaja.
           </p>
           
           <div className={`flex flex-col sm:flex-row gap-4 justify-center items-center transition-all duration-700 delay-900 ${isVisible ? 'translate-y-0 opacity-100' : 'translate-y-4 opacity-0'}`}>
