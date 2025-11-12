@@ -49,7 +49,8 @@ const HomePage = ({ user }) => {
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-academic-muted via-white to-academic-muted/50 overflow-x-hidden">
+   <div className="min-h-screen overflow-hidden bg-gradient-to-br from-academic-muted via-white to-academic-muted/50">
+
       {/* Animated Background Elements */}
       <div className="fixed inset-0 pointer-events-none overflow-hidden">
         <div className="absolute top-20 left-10 w-32 h-32 bg-academic-primary/5 rounded-full blur-xl animate-pulse"></div>
